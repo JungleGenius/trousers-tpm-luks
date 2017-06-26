@@ -5,8 +5,8 @@
 %define dracut_mod_name 50plymouth-tpm
 %endif
 
-Name:		@PACKAGE@
-Version:	@VERSION@
+Name:		tpm-luks
+Version:	0.8.0
 Release:	9%{?dist}
 Summary:	Utility for storing a LUKS key using a TPM
 
